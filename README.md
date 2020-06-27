@@ -1,4 +1,4 @@
-# 使用GRB嗓音狀況評估量表、多重深度學習模型和多重輸出進行自動病理嗓音品質評分 
+# 使用GRB嗓音狀況評估量表、多重深度學習模型和多重輸出進行自動病理嗓音品質評分 Using GRB voice assessment scale, multimodal deep learning models and multiple outputs for automatic pathological voice quality score
 
 
 This database is from <b>Far Eastern Memorial Hospital</b>, which is not public for others
