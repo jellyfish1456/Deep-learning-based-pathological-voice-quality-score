@@ -3,7 +3,7 @@
 
 This database is from <b>Far Eastern Memorial Hospital(FEMH)</b>, which is not public for others
 
-The project is in [EEA683](https://portal.yzu.edu.tw/cosSelect/Cos_Plan_En.aspx?y=108&s=2&id=EEA683&c=A)course from Yuan Ze University, Taiwan
+The project is in [EEA683](https://portal.yzu.edu.tw/cosSelect/Cos_Plan_En.aspx?y=108&s=2&id=EEA683&c=A) course from Yuan Ze University, Taiwan
 
 # Content
 
