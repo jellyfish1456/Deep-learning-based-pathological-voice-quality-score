@@ -26,3 +26,5 @@ Here, we use several accoustic features as well as using deep learning method to
    * Tensorflow: 1.14.0
    
 # Motivation
+
+In this modern society, a great number of people are suffering voice disorder since it influences their daily life negatively.
