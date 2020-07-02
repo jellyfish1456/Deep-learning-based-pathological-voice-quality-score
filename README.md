@@ -10,6 +10,7 @@ The project is in [EEA683](https://portal.yzu.edu.tw/cosSelect/Cos_Plan_En.aspx?
 
   * [Introduction](#Introduction)
   * [Environment](#Environment)
+  * [Motivation](#Motivation)
   * [Example](#Example)
   
 # Introduction
@@ -23,3 +24,5 @@ Here, we use several accoustic features as well as using deep learning method to
    * Python: 3.6.5
    * Keras: 2.2.5
    * Tensorflow: 1.14.0
+   
+# Motivation
