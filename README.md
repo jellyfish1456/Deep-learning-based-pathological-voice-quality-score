@@ -27,4 +27,4 @@ Here, we use several accoustic features as well as using deep learning method to
    
 # Motivation
 
-In this modern society, a great number of people are suffering voice disorder since it influences their daily life negatively. The dramatic changes in voice may be due to lesions of the vocal cords, such as atrophy of the vocal cords, polyps and tumors, etc.
+In this modern society, a great number of people are suffering voice disorder since it influences their daily life negatively. The dramatic changes in voice may be due to lesions of the vocal cords, such as atrophy of the vocal cords, polyps and tumors, etc. When doctors or professional physicians diagnose patient's vocal folds, patients might suffer from vocal cord examinations, which is time-consuming and may have misjudged situations. Moreover, owing to the fact that the location of the disease is deep in the throat, it needs to be accurately checked through professional instruments such as endoscopes.
