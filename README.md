@@ -27,4 +27,4 @@ Here, we use several accoustic features as well as using deep learning method to
    
 # Motivation
 
-In this modern society, a great number of people are suffering voice disorder since it influences their daily life negatively.
+In this modern society, a great number of people are suffering voice disorder since it influences their daily life negatively. The dramatic changes in voice may be due to lesions of the vocal cords, such as atrophy of the vocal cords, polyps and tumors, etc.
