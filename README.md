@@ -14,8 +14,8 @@ The project is in [EEA683](https://portal.yzu.edu.tw/cosSelect/Cos_Plan_En.aspx?
   
 # Introduction
 
-In this project, it has two types of data. They are "/a" voice and "continuous voice". It has a correspondding GRB voice assessment scale.
-
+In this project, it has two types of data. They are "/a voice" and "continuous voice". It has a correspondding GRB voice assessment scale.
+Here, we use several accoustic features as well as using deep learning method to classify GRB score.
 
 
 # Environment
